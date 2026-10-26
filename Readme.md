@@ -1,6 +1,1 @@
-Primeiro exercício usando GIT
-
-
-
-Segundo exercicio
-
+Aqui vão ser colocados todos meus projetos
